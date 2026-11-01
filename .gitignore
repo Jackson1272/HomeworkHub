@@ -1,0 +1,5 @@
+.hwkey
+*.key
+.env
+hw_log/
+__pycache__/
